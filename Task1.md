@@ -42,7 +42,7 @@ server {
    
     `sudo mkdir -p /var/www/html/awesomeweb`
    
-    `sudo chown -R $USER:$USER /var/html/awesomeweb`
+    `sudo chown -R $USER:$USER /var/www/html/awesomeweb`
     
 
 3. **Place index.html inside awesomeweb directory:**
